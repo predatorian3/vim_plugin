@@ -7,9 +7,9 @@ module VimPlugin
     include Thor::Actions
 
     desc 'Generate Vim Plugin named NAME'
-    argument :plugin_name, 
-      type: :string,
-      desc: "Name of the Pathogen Vim Plugin."
+    argument :plugin_name,
+             type: :string,
+             desc: 'Name of the Pathogen Vim Plugin.'
 
     # Set the Root directory for the Generators to use for template lookups.
     def self.source_root
@@ -70,7 +70,7 @@ module VimPlugin
     def create_plugin_readme
       template('README.md.tt', "#{plugin_name}/README.md")
     end
- 
+
     # Create the Plugin's LICENSE file.
     def create_plugin_license
       template('LICENSE.tt', "#{plugin_name}/LICENSE")

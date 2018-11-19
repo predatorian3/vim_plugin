@@ -1,5 +1,5 @@
 require 'vim_plugin'
-require 'vim_plugin/cmds' # Holds extra Thor commands
+require 'vim_plugin/cmds/pathogen_plugin' # Holds extra Thor commands
 require 'thor'
 
 module VimPlugin
