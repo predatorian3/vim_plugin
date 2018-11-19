@@ -75,6 +75,12 @@ module VimPlugin
       template('doc_README.md.tt', plugin_name + '/doc/README.md')
     end
 
+    # Create the Plugin's Syntax directory
+    def create_plugin_syntax
+      empty_directory(plugin_name + '/syntax')
+      template('syntax_README.md.tt', plugin_name + '/syntax/README.md')
+    end
+
     # Create teh Plugin's README.md file.
     def create_plugin_readme
       template('README.md.tt', "#{plugin_name}/README.md")
