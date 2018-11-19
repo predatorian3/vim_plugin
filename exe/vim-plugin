@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'vim_plugin/cli'
+
+VimPlugin::CLI.start(ARGV)
