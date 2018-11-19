@@ -1,0 +1,5 @@
+# Vim Plugin: indent
+
+This directory holds code that performs indentation based upon the FileType.
+Yes it could be in ftplugin, but this is convention, and it keeps the code 
+"cleaner", and helps future developers.

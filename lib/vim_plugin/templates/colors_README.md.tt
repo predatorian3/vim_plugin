@@ -1,0 +1,4 @@
+# Vim Plugin: Colors
+
+This directory is used to hold color schemes for Vim.
+Each file contained in here will, and should end in `.vim`

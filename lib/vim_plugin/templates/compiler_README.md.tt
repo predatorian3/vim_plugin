@@ -1,0 +1,3 @@
+# Vim Plugin: compiler
+
+This directory holds code that sets compiler based options for the current buffer.
