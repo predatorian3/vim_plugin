@@ -50,3 +50,10 @@ The gem is available as open source under the terms of the [MIT License](https:/
 Everyone interacting in the VimPlugin project’s codebases, issue trackers, 
 chat rooms and mailing lists is expected to follow the 
 [code of conduct](https://github.com/predatorian3/vim_plugin/blob/master/CODE_OF_CONDUCT.md).
+
+# References
+
+* [VimCasts - Vim 8 Packaging](http://vimcasts.org/episodes/packages/)
+* [Vim 8 Package Docs](https://github.com/vim/vim/blob/master/runtime/doc/repeat.txt#L494)
+* [Pathogen Plugin Manager](https://github.com/tpope/vim-pathogen)
+* [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com)
