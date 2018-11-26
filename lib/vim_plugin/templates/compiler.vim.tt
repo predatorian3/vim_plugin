@@ -1,0 +1,7 @@
+" <%= config['plugin_name'] %>/compiler/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script contains code that sets compiler based options for the current
+" buffer.
+"
+" Replace these lines with Vimscript code.

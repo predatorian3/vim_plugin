@@ -1,0 +1,11 @@
+*<%= config['plugin_name'] %>* Help for <%= config['plugin_name'] %>
+
+===============================================================================
+
+1. Overview                    |overview|
+
+===============================================================================
+1. Overview                                                     *overview*
+
+This is filler text for the <%= config['plugin_name'] %> documentation.
+

@@ -1,4 +1,0 @@
-# Vim Plugin: ftdetect
-
-This directory is ran once everytime Vim starts.
-It is used to hold code that performs "Filetype detection", and NOTHING ELSE!

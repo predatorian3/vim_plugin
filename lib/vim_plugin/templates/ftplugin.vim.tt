@@ -1,0 +1,7 @@
+" <%= config['plugin_name'] %>/ftplugin/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script holds functions, commands, and mappings for FileType
+" specific things.
+"
+" Replace these lines with actual Vimscript code.

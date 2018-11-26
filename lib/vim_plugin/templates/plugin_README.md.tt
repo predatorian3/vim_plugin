@@ -1,4 +1,0 @@
-# Vim Plugin: plugin
-
-This directory is ran once everytime Vim is started. 
-These files are meant to contain code that is always loaded.

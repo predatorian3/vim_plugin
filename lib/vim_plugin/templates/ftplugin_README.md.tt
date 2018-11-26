@@ -1,4 +1,0 @@
-# Vim Plugin: ftplugin
-
-This directory holds code that matches the ftdetect code, but is different in
-that this code generally sets per buffer options, or per filetype code.

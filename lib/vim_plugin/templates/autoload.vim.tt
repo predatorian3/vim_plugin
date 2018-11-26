@@ -1,0 +1,6 @@
+" <%= config['plugin_name'] %>/autoload/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script contains code that will be ran when needed.
+" 
+" Replace these lines with Vimscript code.

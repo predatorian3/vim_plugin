@@ -1,0 +1,11 @@
+*vim-farts* Help for vim-farts
+
+===============================================================================
+
+1. Overview                    |overview|
+
+===============================================================================
+1. Overview                                                     *overview*
+
+This is filler text for the vim-farts documentation.
+

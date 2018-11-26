@@ -1,0 +1,6 @@
+" <%= config['plugin_name'] %>/keymap/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script holds keymaps and settings related to the plugin.
+" 
+" Replace these lines with actual Vimscript code.

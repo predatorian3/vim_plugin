@@ -1,0 +1,7 @@
+" <%= config['plugin_name'] %>/after/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script contains code that is still loaded once everytime Vim starts,
+" but only after the 'plugin' code is ran.
+"
+" Replace these lines with actual Vimscrpt code.

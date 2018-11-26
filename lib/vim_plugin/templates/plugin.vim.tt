@@ -1,0 +1,7 @@
+" <%= config['plugin_name'] %>/plugin/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This file is rance once everytime Vim is started.
+" This file is meant to contain code that is always loaded.
+" 
+" Replace these lines with actual Vimscript code.

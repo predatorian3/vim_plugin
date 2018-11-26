@@ -1,4 +1,0 @@
-# Vim Plugin: after
-
-This directory contains code that is still loaded once everytime Vim starts, 
-but after the `plugin` code is ran.

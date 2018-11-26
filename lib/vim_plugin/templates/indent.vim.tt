@@ -1,0 +1,6 @@
+" <%= config['plugin_name'] %>/indent/<%= config['plugin_name'] %>.vim
+" Maintainer: <%= config['maintainer'] %>
+
+" This script holds functions and autocommands for performing indentations
+"
+" Replace these lines with actual Vimscript code.
